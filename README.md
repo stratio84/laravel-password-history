@@ -1,9 +1,12 @@
 # Laravel password history
 Keep a password history of your users to prevent them from reusing the same password, for security reasons like what google does.
 
+Special thanks to imanghafoori whom this library is forked from.
+It's all his credit!
+
 # Installation
 ```
-composer require imanghafoori/laravel-password-history
+composer require stratio84/laravel-password-history
 ```
 
 To publish the config file and migrate the database:
@@ -89,58 +92,4 @@ If you discover any security-related issues, please use the `security tab` inste
 ### :star: Your Stars Make Us Do More :star:
 As always if you found this package useful and you want to encourage us to maintain and work on it. Just press the star button to declare your willingness.
 
-
-
-## More from the author:
-
-
-###  Laravel middlewarize
-
-:gem: You can put middleware on any method calls.
-
-- https://github.com/imanghafoori1/laravel-middlewarize
-
--------------
-
-### Laravel HeyMan
-
-:gem: It allows us to write expressive code to authorize, validate and authenticate.
-
-- https://github.com/imanghafoori1/laravel-heyman
-
-
---------------
-
-### Laravel Terminator
-
-
- :gem: A minimal yet powerful package to give you the opportunity to refactor your controllers.
-
-- https://github.com/imanghafoori1/laravel-terminator
-
-
-------------
-
-### Laravel AnyPass
-
-:gem: It allows you to login with any password in the local environment only.
-
-- https://github.com/imanghafoori1/laravel-anypass
-
-------------
-
-### Eloquent Relativity
-
-:gem: It allows you to decouple your eloquent models to reach a modular structure
-
-- https://github.com/imanghafoori1/eloquent-relativity
-
-
-<p align="center">
-  
-    A man will never fail, unless he stops trying.
-    
-    "Albert Einstein"
-    
-</p>
 

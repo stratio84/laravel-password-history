@@ -1,5 +1,5 @@
 {
-  "name": "imanghafoori/laravel-password-history",
+  "name": "stratio84/laravel-password-history",
   "description": "A package to keep a history of all password changes of users",
   "keywords": [
     "laravel",
@@ -8,11 +8,11 @@
     "laravel5"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/imanghafoori1/laravel-password-history",
+  "homepage": "https://github.com/stratio84/laravel-password-history",
   "authors": [
     {
-      "name": "Iman Ghafoori",
-      "email": "imanghafoori1@gmail.com"
+      "name": "Gianpiero Venditti",
+      "email": "gianpiero.venditti@gmail.com"
     }
   ],
   "require": {
